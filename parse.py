@@ -30,14 +30,16 @@ def read_text_from_file(path):
 
 def count_districts_from_lines(lines):
     district_count = 0
-    while re.search("district", lines[district_count]):
+    while re.search("district", lines[district_count]) and district_count < len(lines):
         district_count += 1
+    print "counted <%i> districts, failing line <%s>" % (district_count, lines[district_count])
     return district_count
 
 def parse_stats_from_string(pdf_string):
-    state_strings = re.split("1st district", pdf_string)
+    state_strings = re.split("\n1st district", pdf_string)
     state_stats = []
-    for state_string in state_strings:
+    for ii, state_string in enumerate(state_strings):
+        if ii == 0: continue
         lines = state_string.split("\n")
         lines[0] = "1st district" + lines[0] # replace removed by regex
         try:
@@ -48,23 +50,42 @@ def parse_stats_from_string(pdf_string):
     return state_stats
 
 def parse_votes_from_line(line):
-    clean = re.sub("[,.]", "", line)
-    if len(clean) < 1: return 0
+    """ returns -1 if not parseable """
+    if re.match("\A[. ]+\Z", line): return 0
+    clean = re.sub("[,.()]", "", line)
     try:
         return int(clean)
     except Exception, e:
-        print "input <%s>, cleaned to <%s> raised error" % (line, clean)
-        return 0
+        # print "input <%s>, cleaned to <%s> raised error" % (line, clean)
+        return -1
+
+def next_state(current_state):
+    if current_state == "R":
+        return "D"
+    elif current_state == "D":
+        return "finished"
 
 def parse_stats_from_lines(lines):
     district_count = count_districts_from_lines(lines)
-    republican_start = district_count + 1
-    democrat_start = 2 * (district_count + 1)
     votes_by_district = []
-    for ii in range(district_count):
-        r = parse_votes_from_line(lines[republican_start+ii])
-        d = parse_votes_from_line(lines[democrat_start+ii])
-        votes_by_district +=  [{"R": r, "D": d}]
+    state = "R"
+    district, line = 0, district_count
+    while state != "finished":
+        votes = parse_votes_from_line(lines[line])
+        print "     parsed <%s> to <%i>" % (lines[line], votes)
+        if votes >= 0:
+            if (district == 0 and
+              parse_votes_from_line(lines[line-1]) == -1 and
+              parse_votes_from_line(lines[line+1]) == -1):
+                line += 1
+                continue
+            if len(votes_by_district) <= district: votes_by_district.append({})
+            votes_by_district[district][state] = votes
+            district += 1
+            if district >= district_count:
+                district = 0
+                state = next_state(state)
+        line += 1
     return votes_by_district
 
 def print_stats(stats):
