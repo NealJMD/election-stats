@@ -1,0 +1,1066 @@
+{
+"2010": {
+  "Alabama": {
+  	"Republican": 914445,	"Democrat": 418957,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Alaska": {
+  	"Republican": 175384,	"Democrat": 77606,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Arizona": {
+  	"Republican": 900510,	"Democrat": 711837,	"Independent": 4506,	"Libertarian": 72216,	"Green": 9066
+  },
+  "Arkansas": {
+  	"Republican": 435422,	"Democrat": 317975,	"Independent": 4421,	"Libertarian": 0,	"Green": 16048
+  },
+  "California": {
+  	"Republican": 4195494,	"Democrat": 5148828,	"Independent": 23628,	"Libertarian": 142363,	"Green": 46626
+  },
+  "Colorado": {
+  	"Republican": 884032,	"Democrat": 800900,	"Independent": 0,	"Libertarian": 38864,	"Green": 2923
+  },
+  "Connecticut": {
+  	"Republican": 457976,	"Democrat": 634947,	"Independent": 2310,	"Libertarian": 0,	"Green": 8892
+  },
+  "Delaware": {
+  	"Republican": 125442,	"Democrat": 173543,	"Independent": 0,	"Libertarian": 1986,	"Green": 0
+  },
+  "Florida": {
+  	"Republican": 3004225,	"Democrat": 1853600,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Georgia": {
+  	"Republican": 1528142,	"Democrat": 940347,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Hawaii": {
+  	"Republican": 129127,	"Democrat": 226430,	"Independent": 0,	"Libertarian": 3254,	"Green": 0
+  },
+  "Idaho": {
+  	"Republican": 263699,	"Democrat": 150884,	"Independent": 27865,	"Libertarian": 4696,	"Green": 0
+  },
+  "Illinois": {
+  	"Republican": 1720016,	"Democrat": 1876316,	"Independent": 4428,	"Libertarian": 0,	"Green": 95348
+  },
+  "Indiana": {
+  	"Republican": 972671,	"Democrat": 679462,	"Independent": 11218,	"Libertarian": 84289,	"Green": 0
+  },
+  "Iowa": {
+  	"Republican": 597414,	"Democrat": 479874,	"Independent": 0,	"Libertarian": 8443,	"Green": 0
+  },
+  "Kansas": {
+  	"Republican": 528136,	"Democrat": 274992,	"Independent": 0,	"Libertarian": 27360,	"Green": 0
+  },
+  "Kentucky": {
+  	"Republican": 844369,	"Democrat": 506319,	"Independent": 1334,	"Libertarian": 2029,	"Green": 0
+  },
+  "Louisiana": {
+  	"Republican": 675386,	"Democrat": 311221,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Maine": {
+  	"Republican": 248170,	"Democrat": 316156,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Maryland": {
+  	"Republican": 674246,	"Democrat": 1104056,	"Independent": 0,	"Libertarian": 37099,	"Green": 0
+  },
+  "Massachusetts": {
+  	"Republican": 808305,	"Democrat": 1335738,	"Independent": 63435,	"Libertarian": 0,	"Green": 0
+  },
+  "Michigan": {
+  	"Republican": 1671707,	"Democrat": 1415212,	"Independent": 0,	"Libertarian": 43279,	"Green": 25739
+  },
+  "Minnesota": {
+  	"Republican": 970741,	"Democrat": 1002026,	"Independent": 23355,	"Libertarian": 0,	"Green": 0
+  },
+  "Mississippi": {
+  	"Republican": 423579,	"Democrat": 350695,	"Independent": 6560,	"Libertarian": 2188,	"Green": 0
+  },
+  "Missouri": {
+  	"Republican": 1103290,	"Democrat": 708064,	"Independent": 7193,	"Libertarian": 92485,	"Green": 0
+  },
+  "Montana": {
+  	"Republican": 217696,	"Democrat": 121954,	"Independent": 0,	"Libertarian": 20691,	"Green": 0
+  },
+  "Nebraska": {
+  	"Republican": 327986,	"Democrat": 137524,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Nevada": {
+  	"Republican": 357369,	"Democrat": 317835,	"Independent": 6473,	"Libertarian": 6144,	"Green": 0
+  },
+  "New Hampshire": {
+  	"Republican": 230265,	"Democrat": 200563,	"Independent": 6197,	"Libertarian": 12762,	"Green": 0
+  },
+  "New Jersey": {
+  	"Republican": 1055299,	"Democrat": 1024730,	"Independent": 3006,	"Libertarian": 8536,	"Green": 7494
+  },
+  "New Mexico": {
+  	"Republican": 288885,	"Democrat": 307766,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "New York": {
+  	"Republican": 1612724,	"Democrat": 2514801,	"Independent": 0,	"Libertarian": 929,	"Green": 1038
+  },
+  "North Carolina": {
+  	"Republican": 1440913,	"Democrat": 1204635,	"Independent": 0,	"Libertarian": 16562,	"Green": 0
+  },
+  "North Dakota": {
+  	"Republican": 129802,	"Democrat": 106542,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Ohio": {
+  	"Republican": 2053075,	"Democrat": 1611112,	"Independent": 30556,	"Libertarian": 101549,	"Green": 2000
+  },
+  "Oklahoma": {
+  	"Republican": 519562,	"Democrat": 221966,	"Independent": 51451,	"Libertarian": 0,	"Green": 0
+  },
+  "Oregon": {
+  	"Republican": 657007,	"Democrat": 733369,	"Independent": 0,	"Libertarian": 2492,	"Green": 0
+  },
+  "Pennsylvania": {
+  	"Republican": 2034145,	"Democrat": 1882202,	"Independent": 10988,	"Libertarian": 5710,	"Green": 5400
+  },
+  "Rhode Island": {
+  	"Republican": 126951,	"Democrat": 185711,	"Independent": 22342,	"Libertarian": 0,	"Green": 0
+  },
+  "South Carolina": {
+  	"Republican": 753932,	"Democrat": 537323,	"Independent": 0,	"Libertarian": 9988,	"Green": 7322
+  },
+  "South Dakota": {
+  	"Republican": 153703,	"Democrat": 146589,	"Independent": 19134,	"Libertarian": 0,	"Green": 0
+  },
+  "Tennessee": {
+  	"Republican": 955078,	"Democrat": 541527,	"Independent": 62515,	"Libertarian": 0,	"Green": 0
+  },
+  "Texas": {
+  	"Republican": 3058203,	"Democrat": 1450150,	"Independent": 20868,	"Libertarian": 212100,	"Green": 2868
+  },
+  "Utah": {
+  	"Republican": 390969,	"Democrat": 218236,	"Independent": 0,	"Libertarian": 7252,	"Green": 0
+  },
+  "Vermont": {
+  	"Republican": 76403,	"Democrat": 154006,	"Independent": 4704,	"Libertarian": 0,	"Green": 0
+  },
+  "Virginia": {
+  	"Republican": 1186098,	"Democrat": 911116,	"Independent": 42002,	"Libertarian": 23681,	"Green": 0
+  },
+  "Washington": {
+  	"Republican": 1135166,	"Democrat": 1296502,	"Independent": 47741,	"Libertarian": 0,	"Green": 0
+  },
+  "West Virginia": {
+  	"Republican": 283085,	"Democrat": 227857,	"Independent": 0,	"Libertarian": 0,	"Green": 0
+  },
+  "Wisconsin": {
+  	"Republican": 1165761,	"Democrat": 938690,	"Independent": 10813,	"Libertarian": 4311,	"Green": 0
+  },
+  "Wyoming": {
+  	"Republican": 131661,	"Democrat": 45768,	"Independent": 0,	"Libertarian": 9253,	"Green": 0
+  }
+},
+"2008": {
+  "Alabama": {
+    "Republican": 718367, "Democrat": 1120903,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Alaska": {
+    "Republican": 142560, "Democrat": 158939, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Arizona": {
+    "Republican": 1055305,  "Democrat": 1021798,  "Independent": 9394,  "Libertarian": 61100, "Green": 8080
+  },
+  "Arkansas": {
+    "Republican": 415481, "Democrat": 215196, "Independent": 0, "Libertarian": 0, "Green": 155851
+  },
+  "California": {
+    "Republican": 7380825,  "Democrat": 4515925,  "Independent": 90340, "Libertarian": 220118,  "Green": 60926
+  },
+  "Colorado": {
+    "Republican": 1259723,  "Democrat": 990836, "Independent": 0, "Libertarian": 12135, "Green": 10026
+  },
+  "Connecticut": {
+    "Republican": 908761, "Democrat": 504785, "Independent": 3082,  "Libertarian": 2049,  "Green": 25826
+  },
+  "Delaware": {
+    "Republican": 146434, "Democrat": 235437, "Independent": 0, "Libertarian": 3586,  "Green": 0
+  },
+  "Florida": {
+    "Republican": 3434831,  "Democrat": 3792167,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Georgia": {
+    "Republican": 1858090,  "Democrat": 1796549,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Hawaii": {
+    "Republican": 319956, "Democrat": 82540,  "Independent": 4042,  "Libertarian": 11293, "Green": 0
+  },
+  "Idaho": {
+    "Republican": 259776, "Democrat": 377464, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Illinois": {
+    "Republican": 3176203,  "Democrat": 1961173,  "Independent": 0, "Libertarian": 0, "Green": 110234
+  },
+  "Indiana": {
+    "Republican": 1388963,  "Democrat": 1240581,  "Independent": 0, "Libertarian": 47306, "Green": 0
+  },
+  "Iowa": {
+    "Republican": 759460, "Democrat": 698241, "Independent": 7406,  "Libertarian": 0, "Green": 6664
+  },
+  "Kansas": {
+    "Republican": 470031, "Democrat": 690005, "Independent": 0, "Libertarian": 25663, "Green": 0
+  },
+  "Kentucky": {
+    "Republican": 761209, "Democrat": 955182, "Independent": 33444, "Libertarian": 0, "Green": 0
+  },
+  "Louisiana": {
+    "Republican": 398474, "Democrat": 594306, "Independent": 0, "Libertarian": 549, "Green": 1883
+  },
+  "Maine": {
+    "Republican": 431903, "Democrat": 278198, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maryland": {
+    "Republican": 1677490,  "Democrat": 762587, "Independent": 88,  "Libertarian": 47708, "Green": 6828
+  },
+  "Massachusetts": {
+    "Republican": 2245778,  "Democrat": 318461, "Independent": 19848, "Libertarian": 0, "Green": 0
+  },
+  "Michigan": {
+    "Republican": 2516640,  "Democrat": 2114293,  "Independent": 0, "Libertarian": 83424, "Green": 66162
+  },
+  "Minnesota": {
+    "Republican": 1612480,  "Democrat": 1069015,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Mississippi": {
+    "Republican": 731805, "Democrat": 527330, "Independent": 3736,  "Libertarian": 0, "Green": 1876
+  },
+  "Missouri": {
+    "Republican": 1413016,  "Democrat": 1313018,  "Independent": 0, "Libertarian": 82647, "Green": 0
+  },
+  "Montana": {
+    "Republican": 155930, "Democrat": 308470, "Independent": 0, "Libertarian": 16500, "Green": 0
+  },
+  "Nebraska": {
+    "Republican": 264885, "Democrat": 510513, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Nevada": {
+    "Republican": 457320, "Democrat": 383548, "Independent": 14922, "Libertarian": 20432, "Green": 9219
+  },
+  "New Hampshire": {
+    "Republican": 364767, "Democrat": 294560, "Independent": 0, "Libertarian": 15221, "Green": 0
+  },
+  "New Jersey": {
+    "Republican": 1911827,  "Democrat": 1461820,  "Independent": 0, "Libertarian": 1600,  "Green": 12554
+  },
+  "New Mexico": {
+    "Republican": 457135, "Democrat": 321083, "Independent": 36348, "Libertarian": 0, "Green": 0
+  },
+  "New York": {
+    "Republican": 4006436,  "Democrat": 1800093,  "Independent": 0, "Libertarian": 2659,  "Green": 0
+  },
+  "North Carolina": {
+    "Republican": 2293971,  "Democrat": 1901517,  "Independent": 0, "Libertarian": 19605, "Green": 0
+  },
+  "North Dakota": {
+    "Republican": 194577, "Democrat": 119388, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Ohio": {
+    "Republican": 2752111,  "Democrat": 2491498,  "Independent": 72017, "Libertarian": 44902, "Green": 13812
+  },
+  "Oklahoma": {
+    "Republican": 503614, "Democrat": 802530, "Independent": 30783, "Libertarian": 0, "Green": 0
+  },
+  "Oregon": {
+    "Republican": 1036171,  "Democrat": 435920, "Independent": 65109, "Libertarian": 15806, "Green": 50293
+  },
+  "Pennsylvania": {
+    "Republican": 3209168,  "Democrat": 2520755,  "Independent": 17311, "Libertarian": 6155,  "Green": 23214
+  },
+  "Rhode Island": {
+    "Republican": 303670, "Democrat": 118773, "Independent": 15108, "Libertarian": 0, "Green": 0
+  },
+  "South Carolina": {
+    "Republican": 919529, "Democrat": 939703, "Independent": 0, "Libertarian": 0, "Green": 7332
+  },
+  "South Dakota": {
+    "Republican": 256041, "Democrat": 122966, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Tennessee": {
+    "Republican": 1195542,  "Democrat": 977677, "Independent": 128601,  "Libertarian": 0, "Green": 0
+  },
+  "Texas": {
+    "Republican": 2979398,  "Democrat": 4203917,  "Independent": 43162, "Libertarian": 302145,  "Green": 0
+  },
+  "Utah": {
+    "Republican": 393761, "Democrat": 503917, "Independent": 0, "Libertarian": 11356, "Green": 0
+  },
+  "Vermont": {
+    "Republican": 248203, "Democrat": 0,  "Independent": 22190, "Libertarian": 0, "Green": 0
+  },
+  "Virginia": {
+    "Republican": 1852788,  "Democrat": 1590687,  "Independent": 13870, "Libertarian": 5265,  "Green": 0
+  },
+  "Washington": {
+    "Republican": 1725316,  "Democrat": 1189147,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "West Virginia": {
+    "Republican": 432075, "Democrat": 213339, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Wisconsin": {
+    "Republican": 1383536,  "Democrat": 1274987,  "Independent": 98997, "Libertarian": 12842, "Green": 0
+  },
+  "Wyoming": {
+    "Republican": 106758, "Democrat": 131244, "Independent": 0, "Libertarian": 11030, "Green": 0
+  }
+},
+"2006": {
+  "Alabama": {
+    "Republican": 502046, "Democrat": 627501, "Independent": 3414,  "Libertarian": 0, "Green": 0
+  },
+  "Alaska": {
+    "Republican": 93879,  "Democrat": 132743, "Independent": 0, "Libertarian": 4029,  "Green": 1819
+  },
+  "Arizona": {
+    "Republican": 627259, "Democrat": 771246, "Independent": 4408,  "Libertarian": 90214, "Green": 0
+  },
+  "Arkansas": {
+    "Republican": 456569, "Democrat": 306442, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "California": {
+    "Republican": 4720164,  "Democrat": 3314398,  "Independent": 11694, "Libertarian": 170711,  "Green": 48445
+  },
+  "Colorado": {
+    "Republican": 832902, "Democrat": 623858, "Independent": 0, "Libertarian": 13535, "Green": 38872
+  },
+  "Connecticut": {
+    "Republican": 648653, "Democrat": 419895, "Independent": 0, "Libertarian": 3058,  "Green": 3090
+  },
+  "Delaware": {
+    "Republican": 97565,  "Democrat": 143897, "Independent": 5769,  "Libertarian": 0, "Green": 4463
+  },
+  "Florida": {
+    "Republican": 1599968,  "Democrat": 2182833,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Georgia": {
+    "Republican": 932143, "Democrat": 1138048,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Hawaii": {
+    "Republican": 219810, "Democrat": 118134, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Idaho": {
+    "Republican": 177376, "Democrat": 248105, "Independent": 11970, "Libertarian": 0, "Green": 0
+  },
+  "Illinois": {
+    "Republican": 1986431,  "Democrat": 1442526,  "Independent": 0, "Libertarian": 5748,  "Green": 0
+  },
+  "Indiana": {
+    "Republican": 812496, "Democrat": 831818, "Independent": 5284,  "Libertarian": 17324, "Green": 0
+  },
+  "Iowa": {
+    "Republican": 492937, "Democrat": 522388, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Kansas": {
+    "Republican": 369191, "Democrat": 459267, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Kentucky": {
+    "Republican": 601723, "Democrat": 611780, "Independent": 0, "Libertarian": 39249, "Green": 0
+  },
+  "Louisiana": {
+    "Republican": 309279, "Democrat": 579702, "Independent": 0, "Libertarian": 25772, "Green": 0
+  },
+  "Maine": {
+    "Republican": 350721, "Democrat": 163165, "Independent": 22029, "Libertarian": 0, "Green": 0
+  },
+  "Maryland": {
+    "Republican": 1099441,  "Democrat": 546862, "Independent": 0, "Libertarian": 4941,  "Green": 42857
+  },
+  "Massachusetts": {
+    "Republican": 1632307,  "Democrat": 198550, "Independent": 16808, "Libertarian": 0, "Green": 0
+  },
+  "Michigan": {
+    "Republican": 1923485,  "Democrat": 1624865,  "Independent": 0, "Libertarian": 45435, "Green": 25047
+  },
+  "Minnesota": {
+    "Republican": 1152621,  "Democrat": 924636, "Independent": 0, "Libertarian": 0, "Green": 4792
+  },
+  "Mississippi": {
+    "Republican": 260330, "Democrat": 304308, "Independent": 25999, "Libertarian": 0, "Green": 0
+  },
+  "Missouri": {
+    "Republican": 992258, "Democrat": 1049346,  "Independent": 0, "Libertarian": 47213, "Green": 0
+  },
+  "Montana": {
+    "Republican": 158916, "Democrat": 239124, "Independent": 0, "Libertarian": 8085,  "Green": 0
+  },
+  "Nebraska": {
+    "Republican": 261910, "Democrat": 334177, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Nevada": {
+    "Republican": 287879, "Democrat": 260317, "Independent": 18631, "Libertarian": 8000,  "Green": 0
+  },
+  "New Hampshire": {
+    "Republican": 209434, "Democrat": 189615, "Independent": 0, "Libertarian": 3305,  "Green": 0
+  },
+  "New Jersey": {
+    "Republican": 1207782,  "Democrat": 903176, "Independent": 2597,  "Libertarian": 6333,  "Green": 3071
+  },
+  "New Mexico": {
+    "Republican": 313259, "Democrat": 247825, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "New York": {
+    "Republican": 2537778,  "Democrat": 1160460,  "Independent": 0, "Libertarian": 2805,  "Green": 0
+  },
+  "North Carolina": {
+    "Republican": 1026915,  "Democrat": 913893, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "North Dakota": {
+    "Republican": 142934, "Democrat": 74687,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Ohio": {
+    "Republican": 2081737,  "Democrat": 1870390,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Oklahoma": {
+    "Republican": 372888, "Democrat": 518025, "Independent": 14281, "Libertarian": 0, "Green": 0
+  },
+  "Oregon": {
+    "Republican": 765853, "Democrat": 557491, "Independent": 0, "Libertarian": 4497,  "Green": 4194
+  },
+  "Pennsylvania": {
+    "Republican": 2229091,  "Democrat": 1732163,  "Independent": 7958,  "Libertarian": 0, "Green": 33287
+  },
+  "Rhode Island": {
+    "Republican": 264949, "Democrat": 41836,  "Independent": 66363, "Libertarian": 0, "Green": 0
+  },
+  "South Carolina": {
+    "Republican": 472719, "Democrat": 599615, "Independent": 0, "Libertarian": 4467,  "Green": 8847
+  },
+  "South Dakota": {
+    "Republican": 230468, "Democrat": 97864,  "Independent": 0, "Libertarian": 5230,  "Green": 0
+  },
+  "Tennessee": {
+    "Republican": 860861, "Democrat": 799547, "Independent": 55018, "Libertarian": 0, "Green": 0
+  },
+  "Texas": {
+    "Republican": 1830586,  "Democrat": 2093937,  "Independent": 12504, "Libertarian": 131729,  "Green": 0
+  },
+  "Utah": {
+    "Republican": 244483, "Democrat": 292235, "Independent": 0, "Libertarian": 6167,  "Green": 3338
+  },
+  "Vermont": {
+    "Republican": 139815, "Democrat": 117023, "Independent": 1976,  "Libertarian": 0, "Green": 994
+  },
+  "Virginia": {
+    "Republican": 947103, "Democrat": 1222790,  "Independent": 115711,  "Libertarian": 2107,  "Green": 0
+  },
+  "Washington": {
+    "Republican": 1244095,  "Democrat": 798005, "Independent": 11956, "Libertarian": 0, "Green": 0
+  },
+  "West Virginia": {
+    "Republican": 263822, "Democrat": 190893, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Wisconsin": {
+    "Republican": 1003156,  "Democrat": 1040071,  "Independent": 3525,  "Libertarian": 0, "Green": 11823
+  },
+  "Wyoming": {
+    "Republican": 92324,  "Democrat": 93336,  "Independent": 0, "Libertarian": 7481,  "Green": 0
+  }
+},
+"2004": {
+  "Alabama": {
+    "Republican": 1079657,  "Democrat": 708425, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Alaska": {
+    "Republican": 213216, "Democrat": 67074,  "Independent": 0, "Libertarian": 7157,  "Green": 11434
+  },
+  "Arizona": {
+    "Republican": 1127591,  "Democrat": 597526, "Independent": 0, "Libertarian": 146316,  "Green": 0
+  },
+  "Arkansas": {
+    "Republican": 357840, "Democrat": 426380, "Independent": 7016,  "Libertarian": 0, "Green": 0
+  },
+  "California": {
+    "Republican": 5030821,  "Democrat": 6223698,  "Independent": 0, "Libertarian": 214805,  "Green": 111031
+  },
+  "Colorado": {
+    "Republican": 991835, "Democrat": 995283, "Independent": 0, "Libertarian": 17788, "Green": 12739
+  },
+  "Connecticut": {
+    "Republican": 629934, "Democrat": 785747, "Independent": 0, "Libertarian": 0, "Green": 7182
+  },
+  "Delaware": {
+    "Republican": 245978, "Democrat": 105716, "Independent": 0, "Libertarian": 2014,  "Green": 0
+  },
+  "Florida": {
+    "Republican": 3319296,  "Democrat": 2212324,  "Independent": 0, "Libertarian": 86315, "Green": 0
+  },
+  "Georgia": {
+    "Republican": 1819817,  "Democrat": 1140869,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Hawaii": {
+    "Republican": 148443, "Democrat": 261884, "Independent": 0, "Libertarian": 6243,  "Green": 0
+  },
+  "Idaho": {
+    "Republican": 401366, "Democrat": 171060, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Illinois": {
+    "Republican": 2271676,  "Democrat": 2675273,  "Independent": 0, "Libertarian": 36629, "Green": 0
+  },
+  "Indiana": {
+    "Republican": 1381699,  "Democrat": 999082, "Independent": 0, "Libertarian": 35470, "Green": 0
+  },
+  "Iowa": {
+    "Republican": 822653, "Democrat": 624620, "Independent": 0, "Libertarian": 8313,  "Green": 0
+  },
+  "Kansas": {
+    "Republican": 723794, "Democrat": 386970, "Independent": 0, "Libertarian": 42663, "Green": 0
+  },
+  "Kentucky": {
+    "Republican": 1017379,  "Democrat": 602085, "Independent": 5069,  "Libertarian": 8121,  "Green": 0
+  },
+  "Louisiana": {
+    "Republican": 780433, "Democrat": 478182, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maine": {
+    "Republican": 283210, "Democrat": 418380, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maryland": {
+    "Republican": 896232, "Democrat": 1310791,  "Independent": 0, "Libertarian": 0, "Green": 44563
+  },
+  "Massachusetts": {
+    "Republican": 435239, "Democrat": 2059984,  "Independent": 74432, "Libertarian": 0, "Green": 0
+  },
+  "Michigan": {
+    "Republican": 2288594,  "Democrat": 2242435,  "Independent": 0, "Libertarian": 54093, "Green": 18365
+  },
+  "Minnesota": {
+    "Republican": 1236094,  "Democrat": 1399624,  "Independent": 0, "Libertarian": 0, "Green": 26917
+  },
+  "Mississippi": {
+    "Republican": 658589, "Democrat": 334605, "Independent": 40426, "Libertarian": 0, "Green": 0
+  },
+  "Missouri": {
+    "Republican": 1429767,  "Democrat": 1192674,  "Independent": 0, "Libertarian": 33937, "Green": 0
+  },
+  "Montana": {
+    "Republican": 286076, "Democrat": 145606, "Independent": 0, "Libertarian": 12548, "Green": 0
+  },
+  "Nebraska": {
+    "Republican": 515115, "Democrat": 230697, "Independent": 0, "Libertarian": 4656,  "Green": 11108
+  },
+  "Nevada": {
+    "Republican": 420711, "Democrat": 333912, "Independent": 0, "Libertarian": 20119, "Green": 0
+  },
+  "New Hampshire": {
+    "Republican": 396024, "Democrat": 243506, "Independent": 0, "Libertarian": 11311, "Green": 0
+  },
+  "New Jersey": {
+    "Republican": 1514784,  "Democrat": 1721392,  "Independent": 2016,  "Libertarian": 0, "Green": 0
+  },
+  "New Mexico": {
+    "Republican": 357805, "Democrat": 384900, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "New York": {
+    "Republican": 2209291,  "Democrat": 3457124,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "North Carolina": {
+    "Republican": 1743131,  "Democrat": 1669864,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "North Dakota": {
+    "Republican": 125684, "Democrat": 185130, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Ohio": {
+    "Republican": 2650122,  "Democrat": 2514613,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Oklahoma": {
+    "Republican": 875033, "Democrat": 389029, "Independent": 110548,  "Libertarian": 0, "Green": 0
+  },
+  "Oregon": {
+    "Republican": 761545, "Democrat": 951688, "Independent": 0, "Libertarian": 14445, "Green": 0
+  },
+  "Pennsylvania": {
+    "Republican": 2565077,  "Democrat": 2478239,  "Independent": 0, "Libertarian": 54751, "Green": 14353
+  },
+  "Rhode Island": {
+    "Republican": 112958, "Democrat": 279315, "Independent": 6196,  "Libertarian": 0, "Green": 0
+  },
+  "South Carolina": {
+    "Republican": 913168, "Democrat": 486479, "Independent": 0, "Libertarian": 0, "Green": 28947
+  },
+  "South Dakota": {
+    "Republican": 178823, "Democrat": 207837, "Independent": 0, "Libertarian": 2808,  "Green": 0
+  },
+  "Tennessee": {
+    "Republican": 1160821,  "Democrat": 1031959,  "Independent": 25686, "Libertarian": 0, "Green": 0
+  },
+  "Texas": {
+    "Republican": 4012534,  "Democrat": 2713968,  "Independent": 37751, "Libertarian": 180389,  "Green": 0
+  },
+  "Utah": {
+    "Republican": 520403, "Democrat": 361628, "Independent": 0, "Libertarian": 3691,  "Green": 2189
+  },
+  "Vermont": {
+    "Republican": 74271,  "Democrat": 21684,  "Independent": 205774,  "Libertarian": 0, "Green": 0
+  },
+  "Virginia": {
+    "Republican": 1817422,  "Democrat": 1023187,  "Independent": 149442,  "Libertarian": 0, "Green": 0
+  },
+  "Washington": {
+    "Republican": 1095493,  "Democrat": 1608751,  "Independent": 0, "Libertarian": 19817, "Green": 5934
+  },
+  "West Virginia": {
+    "Republican": 303042, "Democrat": 415396, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Wisconsin": {
+    "Republican": 1380819,  "Democrat": 1368537,  "Independent": 9846,  "Libertarian": 9485,  "Green": 36536
+  },
+  "Wyoming": {
+    "Republican": 132107, "Democrat": 99989,  "Independent": 0, "Libertarian": 6581,  "Green": 0
+  }
+},
+"2002": {
+  "Alabama": {
+    "Republican": 694606, "Democrat": 507117, "Independent": 0, "Libertarian": 64839, "Green": 0
+  },
+  "Alaska": {
+    "Republican": 169685, "Democrat": 39357,  "Independent": 0, "Libertarian": 3797,  "Green": 14435
+  },
+  "Arizona": {
+    "Republican": 681922, "Democrat": 472135, "Independent": 0, "Libertarian": 40308, "Green": 0
+  },
+  "Arkansas": {
+    "Republican": 283739, "Democrat": 392086, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "California": {
+    "Republican": 3225666,  "Democrat": 3731081,  "Independent": 0, "Libertarian": 260083,  "Green": 20674
+  },
+  "Colorado": {
+    "Republican": 752998, "Democrat": 589463, "Independent": 0, "Libertarian": 38831, "Green": 6483
+  },
+  "Connecticut": {
+    "Republican": 465982, "Democrat": 509036, "Independent": 0, "Libertarian": 1503,  "Green": 9050
+  },
+  "Delaware": {
+    "Republican": 164605, "Democrat": 61011,  "Independent": 0, "Libertarian": 2789,  "Green": 0
+  },
+  "Florida": {
+    "Republican": 2161349,  "Democrat": 1537124,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Georgia": {
+    "Republican": 1104622,  "Democrat": 814295, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Hawaii": {
+    "Republican": 116693, "Democrat": 232344, "Independent": 0, "Libertarian": 8747,  "Green": 0
+  },
+  "Idaho": {
+    "Republican": 256348, "Democrat": 138038, "Independent": 0, "Libertarian": 10637, "Green": 0
+  },
+  "Illinois": {
+    "Republican": 1657183,  "Democrat": 1740541,  "Independent": 0, "Libertarian": 23551, "Green": 7836
+  },
+  "Indiana": {
+    "Republican": 840694, "Democrat": 640568, "Independent": 0, "Libertarian": 37270, "Green": 2745
+  },
+  "Iowa": {
+    "Republican": 546382, "Democrat": 453550, "Independent": 0, "Libertarian": 9819,  "Green": 0
+  },
+  "Kansas": {
+    "Republican": 536026, "Democrat": 259911, "Independent": 0, "Libertarian": 28907, "Green": 0
+  },
+  "Kentucky": {
+    "Republican": 693860, "Democrat": 350924, "Independent": 41753, "Libertarian": 7705,  "Green": 0
+  },
+  "Louisiana": {
+    "Republican": 667702, "Democrat": 390644, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maine": {
+    "Republican": 205780, "Democrat": 289514, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maryland": {
+    "Republican": 752911, "Democrat": 904250, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Massachusetts": {
+    "Republican": 290484, "Democrat": 1528634,  "Independent": 0, "Libertarian": 11729, "Green": 0
+  },
+  "Michigan": {
+    "Republican": 1474178,  "Democrat": 1507174,  "Independent": 0, "Libertarian": 51983, "Green": 12939
+  },
+  "Minnesota": {
+    "Republican": 1029612,  "Democrat": 1097911,  "Independent": 0, "Libertarian": 0, "Green": 37708
+  },
+  "Mississippi": {
+    "Republican": 338817, "Democrat": 320157, "Independent": 2380,  "Libertarian": 6439,  "Green": 0
+  },
+  "Missouri": {
+    "Republican": 985905, "Democrat": 829177, "Independent": 0, "Libertarian": 34217, "Green": 4262
+  },
+  "Montana": {
+    "Republican": 214100, "Democrat": 108233, "Independent": 0, "Libertarian": 8988,  "Green": 0
+  },
+  "Nebraska": {
+    "Republican": 386869, "Democrat": 46843,  "Independent": 0, "Libertarian": 36866, "Green": 3236
+  },
+  "Nevada": {
+    "Republican": 301100, "Democrat": 171160, "Independent": 6842,  "Libertarian": 6834,  "Green": 1393
+  },
+  "New Hampshire": {
+    "Republican": 254797, "Democrat": 175905, "Independent": 0, "Libertarian": 12438, "Green": 0
+  },
+  "New Jersey": {
+    "Republican": 933964, "Democrat": 1030204,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "New Mexico": {
+    "Republican": 175342, "Democrat": 262071, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "New York": {
+    "Republican": 1525771,  "Democrat": 1777688,  "Independent": 5272,  "Libertarian": 3194,  "Green": 35506
+  },
+  "North Carolina": {
+    "Republican": 1209033,  "Democrat": 970716, "Independent": 0, "Libertarian": 64400, "Green": 0
+  },
+  "North Dakota": {
+    "Republican": 109957, "Democrat": 121073, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Ohio": {
+    "Republican": 1775555,  "Democrat": 1331614,  "Independent": 50841, "Libertarian": 0, "Green": 0
+  },
+  "Oklahoma": {
+    "Republican": 546832, "Democrat": 391927, "Independent": 63093, "Libertarian": 0, "Green": 0
+  },
+  "Oregon": {
+    "Republican": 528997, "Democrat": 676920, "Independent": 0, "Libertarian": 22626, "Green": 0
+  },
+  "Pennsylvania": {
+    "Republican": 1859270,  "Democrat": 1348665,  "Independent": 0, "Libertarian": 24086, "Green": 63357
+  },
+  "Rhode Island": {
+    "Republican": 97137,  "Democrat": 224676, "Independent": 4318,  "Libertarian": 0, "Green": 0
+  },
+  "South Carolina": {
+    "Republican": 569267, "Democrat": 344972, "Independent": 0, "Libertarian": 25110, "Green": 0
+  },
+  "South Dakota": {
+    "Republican": 180023, "Democrat": 153551, "Independent": 0, "Libertarian": 3117,  "Green": 0
+  },
+  "Tennessee": {
+    "Republican": 770510, "Democrat": 708375, "Independent": 48450, "Libertarian": 0, "Green": 0
+  },
+  "Texas": {
+    "Republican": 2290723,  "Democrat": 1885178,  "Independent": 1716,  "Libertarian": 107141,  "Green": 10394
+  },
+  "Utah": {
+    "Republican": 321986, "Democrat": 221401, "Independent": 0, "Libertarian": 7133,  "Green": 6616
+  },
+  "Vermont": {
+    "Republican": 72813,  "Democrat": 0,  "Independent": 144880,  "Libertarian": 2033,  "Green": 0
+  },
+  "Virginia": {
+    "Republican": 955673, "Democrat": 440478, "Independent": 4558,  "Libertarian": 0, "Green": 20589
+  },
+  "Washington": {
+    "Republican": 778922, "Democrat": 907440, "Independent": 0, "Libertarian": 48677, "Green": 4077
+  },
+  "West Virginia": {
+    "Republican": 135505, "Democrat": 264124, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Wisconsin": {
+    "Republican": 889146, "Democrat": 676925, "Independent": 29567, "Libertarian": 11080, "Green": 25662
+  },
+  "Wyoming": {
+    "Republican": 110229, "Democrat": 65961,  "Independent": 0, "Libertarian": 5962,  "Green": 0
+  }
+},
+"2000": {
+  "Alabama": {
+    "Republican": 849229, "Democrat": 485660, "Independent": 0, "Libertarian": 96908, "Green": 0
+  },
+  "Alaska": {
+    "Republican": 190862, "Democrat": 45372,  "Independent": 0, "Libertarian": 4802,  "Green": 0
+  },
+  "Arizona": {
+    "Republican": 854715, "Democrat": 557849, "Independent": 0, "Libertarian": 41670, "Green": 2412
+  },
+  "Arkansas": {
+    "Republican": 277146, "Democrat": 355366, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "California": {
+    "Republican": 4446295,  "Democrat": 5406623,  "Independent": 0, "Libertarian": 277645,  "Green": 227307
+  },
+  "Colorado": {
+    "Republican": 968651, "Democrat": 496045, "Independent": 0, "Libertarian": 85806, "Green": 34981
+  },
+  "Connecticut": {
+    "Republican": 590689, "Democrat": 699237, "Independent": 0, "Libertarian": 2034,  "Green": 1258
+  },
+  "Delaware": {
+    "Republican": 211797, "Democrat": 96488,  "Independent": 0, "Libertarian": 2351,  "Green": 0
+  },
+  "Florida": {
+    "Republican": 2851623,  "Democrat": 1976189,  "Independent": 31649, "Libertarian": 27197, "Green": 68896
+  },
+  "Georgia": {
+    "Republican": 1498337,  "Democrat": 918085, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Hawaii": {
+    "Republican": 110895, "Democrat": 221373, "Independent": 0, "Libertarian": 8156,  "Green": 0
+  },
+  "Idaho": {
+    "Republican": 332655, "Democrat": 142345, "Independent": 0, "Libertarian": 13635, "Green": 0
+  },
+  "Illinois": {
+    "Republican": 1907306,  "Democrat": 2453674,  "Independent": 0, "Libertarian": 32204, "Green": 0
+  },
+  "Indiana": {
+    "Republican": 1140554,  "Democrat": 953167, "Independent": 19077, "Libertarian": 43658, "Green": 0
+  },
+  "Iowa": {
+    "Republican": 717322, "Democrat": 531642, "Independent": 0, "Libertarian": 17542, "Green": 0
+  },
+  "Kansas": {
+    "Republican": 655822, "Democrat": 328194, "Independent": 0, "Libertarian": 51945, "Green": 0
+  },
+  "Kentucky": {
+    "Republican": 824915, "Democrat": 561752, "Independent": 0, "Libertarian": 12644, "Green": 0
+  },
+  "Louisiana": {
+    "Republican": 747115, "Democrat": 359668, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maine": {
+    "Republican": 203437, "Democrat": 422606, "Independent": 0, "Libertarian": 12356, "Green": 0
+  },
+  "Maryland": {
+    "Republican": 856306, "Democrat": 1060934,  "Independent": 0, "Libertarian": 238, "Green": 0
+  },
+  "Massachusetts": {
+    "Republican": 343498, "Democrat": 1967942,  "Independent": 0, "Libertarian": 10553, "Green": 0
+  },
+  "Michigan": {
+    "Republican": 1786980,  "Democrat": 2177618,  "Independent": 0, "Libertarian": 48100, "Green": 16344
+  },
+  "Minnesota": {
+    "Republican": 993371, "Democrat": 1234204,  "Independent": 19667, "Libertarian": 17151, "Green": 0
+  },
+  "Mississippi": {
+    "Republican": 468483, "Democrat": 495687, "Independent": 0, "Libertarian": 15510, "Green": 0
+  },
+  "Missouri": {
+    "Republican": 1135724,  "Democrat": 1136020,  "Independent": 0, "Libertarian": 24847, "Green": 4957
+  },
+  "Montana": {
+    "Republican": 211418, "Democrat": 189971, "Independent": 0, "Libertarian": 9132,  "Green": 0
+  },
+  "Nebraska": {
+    "Republican": 486513, "Democrat": 178071, "Independent": 0, "Libertarian": 17912, "Green": 0
+  },
+  "Nevada": {
+    "Republican": 330884, "Democrat": 224848, "Independent": 0, "Libertarian": 9354,  "Green": 1143
+  },
+  "New Hampshire": {
+    "Republican": 303190, "Democrat": 238754, "Independent": 0, "Libertarian": 11901, "Green": 0
+  },
+  "New Jersey": {
+    "Republican": 1384170,  "Democrat": 1532240,  "Independent": 71823, "Libertarian": 0, "Green": 0
+  },
+  "New Mexico": {
+    "Republican": 274017, "Democrat": 299841, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "New York": {
+    "Republican": 2235461,  "Democrat": 3051701,  "Independent": 0, "Libertarian": 4745,  "Green": 0
+  },
+  "North Carolina": {
+    "Republican": 1514806,  "Democrat": 1193600,  "Independent": 0, "Libertarian": 69544, "Green": 0
+  },
+  "North Dakota": {
+    "Republican": 127251, "Democrat": 151173, "Independent": 7212,  "Libertarian": 0, "Green": 0
+  },
+  "Ohio": {
+    "Republican": 2235463,  "Democrat": 2098854,  "Independent": 76910, "Libertarian": 106898,  "Green": 66913
+  },
+  "Oklahoma": {
+    "Republican": 701820, "Democrat": 336955, "Independent": 20590, "Libertarian": 23253, "Green": 0
+  },
+  "Oregon": {
+    "Republican": 607098, "Democrat": 790365, "Independent": 0, "Libertarian": 15800, "Green": 0
+  },
+  "Pennsylvania": {
+    "Republican": 2229057,  "Democrat": 2279227,  "Independent": 0, "Libertarian": 18917, "Green": 0
+  },
+  "Rhode Island": {
+    "Republican": 89454,  "Democrat": 247247, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "South Carolina": {
+    "Republican": 729803, "Democrat": 523141, "Independent": 0, "Libertarian": 31104, "Green": 9484
+  },
+  "South Dakota": {
+    "Republican": 231083, "Democrat": 78321,  "Independent": 0, "Libertarian": 5357,  "Green": 0
+  },
+  "Tennessee": {
+    "Republican": 991984, "Democrat": 819100, "Independent": 2418,  "Libertarian": 39433, "Green": 0
+  },
+  "Texas": {
+    "Republican": 2932411,  "Democrat": 2799051,  "Independent": 5577,  "Libertarian": 245402,  "Green": 0
+  },
+  "Utah": {
+    "Republican": 426648, "Democrat": 304797, "Independent": 0, "Libertarian": 8886,  "Green": 2555
+  },
+  "Vermont": {
+    "Republican": 51977,  "Democrat": 14918,  "Independent": 207934,  "Libertarian": 2978,  "Green": 0
+  },
+  "Virginia": {
+    "Republican": 1131999,  "Democrat": 1060484,  "Independent": 220241,  "Libertarian": 0, "Green": 0
+  },
+  "Washington": {
+    "Republican": 997877, "Democrat": 1245872,  "Independent": 0, "Libertarian": 82289, "Green": 4231
+  },
+  "West Virginia": {
+    "Republican": 108769, "Democrat": 420784, "Independent": 0, "Libertarian": 50319, "Green": 0
+  },
+  "Wisconsin": {
+    "Republican": 1311447,  "Democrat": 1187866,  "Independent": 0, "Libertarian": 3705,  "Green": 0
+  },
+  "Wyoming": {
+    "Republican": 141848, "Democrat": 60638,  "Independent": 0, "Libertarian": 6411,  "Green": 3415
+  }
+},
+"1998": {
+  "Alabama": {
+    "Republican": 665625, "Democrat": 545465, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Alaska": {
+    "Republican": 139676, "Democrat": 77232,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Arizona": {
+    "Republican": 573651, "Democrat": 406834, "Independent": 2757,  "Libertarian": 18042, "Green": 2456
+  },
+  "Arkansas": {
+    "Republican": 319863, "Democrat": 168528, "Independent": 0, "Libertarian": 0, "Green": 36917
+  },
+  "California": {
+    "Republican": 3509530,  "Democrat": 4038257,  "Independent": 0, "Libertarian": 236547,  "Green": 38600
+  },
+  "Colorado": {
+    "Republican": 715820, "Democrat": 533297, "Independent": 0, "Libertarian": 10898, "Green": 0
+  },
+  "Connecticut": {
+    "Republican": 442066, "Democrat": 495557, "Independent": 0, "Libertarian": 1449,  "Green": 676
+  },
+  "Delaware": {
+    "Republican": 119811, "Democrat": 57446,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Florida": {
+    "Republican": 557825, "Democrat": 580605, "Independent": 0, "Libertarian": 0, "Green": 67147
+  },
+  "Georgia": {
+    "Republican": 1039711,  "Democrat": 592004, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Hawaii": {
+    "Republican": 119328, "Democrat": 260947, "Independent": 0, "Libertarian": 13194, "Green": 0
+  },
+  "Idaho": {
+    "Republican": 204568, "Democrat": 169389, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Illinois": {
+    "Republican": 1624558,  "Democrat": 1565998,  "Independent": 0, "Libertarian": 24704, "Green": 0
+  },
+  "Indiana": {
+    "Republican": 861951, "Democrat": 673322, "Independent": 91,  "Libertarian": 40507, "Green": 0
+  },
+  "Iowa": {
+    "Republican": 551767, "Democrat": 338431, "Independent": 0, "Libertarian": 0, "Green": 3432
+  },
+  "Kansas": {
+    "Republican": 450025, "Democrat": 272252, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Kentucky": {
+    "Republican": 637091, "Democrat": 456218, "Independent": 0, "Libertarian": 0, "Green": 1833
+  },
+  "Louisiana": {
+    "Republican": 97044,  "Democrat": 213150, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maine": {
+    "Republican": 124834, "Democrat": 280537, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Maryland": {
+    "Republican": 668983, "Democrat": 802081, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Massachusetts": {
+    "Republican": 412508, "Democrat": 1306281,  "Independent": 6544,  "Libertarian": 2887,  "Green": 0
+  },
+  "Michigan": {
+    "Republican": 1438283,  "Democrat": 1469111,  "Independent": 0, "Libertarian": 51589, "Green": 4654
+  },
+  "Minnesota": {
+    "Republican": 862972, "Democrat": 1090488,  "Independent": 0, "Libertarian": 26607, "Green": 27456
+  },
+  "Mississippi": {
+    "Republican": 232415, "Democrat": 262635, "Independent": 0, "Libertarian": 52583, "Green": 1762
+  },
+  "Missouri": {
+    "Republican": 748432, "Democrat": 787655, "Independent": 0, "Libertarian": 32304, "Green": 2144
+  },
+  "Montana": {
+    "Republican": 175748, "Democrat": 147073, "Independent": 0, "Libertarian": 5652,  "Green": 3078
+  },
+  "Nebraska": {
+    "Republican": 392736, "Democrat": 104548, "Independent": 0, "Libertarian": 27278, "Green": 0
+  },
+  "Nevada": {
+    "Republican": 275163, "Democrat": 79315,  "Independent": 0, "Libertarian": 23853, "Green": 0
+  },
+  "New Hampshire": {
+    "Republican": 190170, "Democrat": 124000, "Independent": 0, "Libertarian": 3338,  "Green": 0
+  },
+  "New Jersey": {
+    "Republican": 858367, "Democrat": 902374, "Independent": 54748, "Libertarian": 0, "Green": 0
+  },
+  "New Mexico": {
+    "Republican": 246127, "Democrat": 228084, "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "New York": {
+    "Republican": 1608117,  "Democrat": 2179943,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "North Carolina": {
+    "Republican": 1014010,  "Democrat": 827078, "Independent": 0, "Libertarian": 62678, "Green": 0
+  },
+  "North Dakota": {
+    "Republican": 87511,  "Democrat": 6,  "Independent": 119668,  "Libertarian": 5709,  "Green": 0
+  },
+  "Ohio": {
+    "Republican": 1752443,  "Democrat": 1593873,  "Independent": 19473, "Libertarian": 9146,  "Green": 0
+  },
+  "Oklahoma": {
+    "Republican": 538194, "Democrat": 314358, "Independent": 6096,  "Libertarian": 0, "Green": 0
+  },
+  "Oregon": {
+    "Republican": 401501, "Democrat": 631246, "Independent": 0, "Libertarian": 28856, "Green": 0
+  },
+  "Pennsylvania": {
+    "Republican": 1472161,  "Democrat": 1380834,  "Independent": 0, "Libertarian": 10112, "Green": 6227
+  },
+  "Rhode Island": {
+    "Republican": 76630,  "Democrat": 203705, "Independent": 1397,  "Libertarian": 0, "Green": 11079
+  },
+  "South Carolina": {
+    "Republican": 580051, "Democrat": 370381, "Independent": 0, "Libertarian": 0, "Green": 804
+  },
+  "South Dakota": {
+    "Republican": 194157, "Democrat": 64433,  "Independent": 0, "Libertarian": 0, "Green": 0
+  },
+  "Tennessee": {
+    "Republican": 469551, "Democrat": 412378, "Independent": 30856, "Libertarian": 0, "Green": 0
+  },
+  "Texas": {
+    "Republican": 1786731,  "Democrat": 1531234,  "Independent": 6795,  "Libertarian": 136688,  "Green": 0
+  },
+  "Utah": {
+    "Republican": 304256, "Democrat": 126505, "Independent": 3998,  "Libertarian": 14013, "Green": 0
+  },
+  "Vermont": {
+    "Republican": 70740,  "Democrat": 0,  "Independent": 136403,  "Libertarian": 2097,  "Green": 0
+  },
+  "Virginia": {
+    "Republican": 542216, "Democrat": 514435, "Independent": 80786, "Libertarian": 0, "Green": 0
+  },
+  "Washington": {
+    "Republican": 818552, "Democrat": 980157, "Independent": 0, "Libertarian": 0, "Green": 30908
+  },
+  "West Virginia": {
+    "Republican": 29136,  "Democrat": 283272, "Independent": 0, "Libertarian": 38869, "Green": 0
+  },
+  "Wisconsin": {
+    "Republican": 880320, "Democrat": 761821, "Independent": 16419, "Libertarian": 0, "Green": 0
+  },
+  "Wyoming": {
+    "Republican": 100687, "Democrat": 67399,  "Independent": 0, "Libertarian": 6133,  "Green": 0
+  }
+}
+}
